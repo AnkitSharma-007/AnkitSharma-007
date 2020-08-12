@@ -12,7 +12,8 @@
 [<img align="left" alt="ankitsharma_007" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ankitsharma_007 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ankitsharma_007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ankitsharma_007 | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="ankitsharma_007 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="ankitsharma_007 | freeCodeCamp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/freecodecamp.svg" />][freecodecamp]
 
 <br />
 
@@ -37,3 +38,4 @@
 [twitter]: https://twitter.com/ankitsharma_007
 [linkedin]: https://www.linkedin.com/in/ankitsharma-007/
 [medium]: https://medium.com/@ankitsharmablog
+[freecodecamp]: https://www.freecodecamp.org/news/author/ankitsharmablog/
