@@ -9,9 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ankitsharma_007" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ankitsharma_007 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ankitsharma_007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ankitsharma_007 | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][medium]
 
 <br />
 <br />
@@ -19,6 +20,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Going Serverless With Blazor](https://ankitsharmablogs.com/going-serverless-with-blazor/?utm_source=rss&utm_medium=rss&utm_campaign=going-serverless-with-blazor)
 - [Announcing A Free eBook On Angular and Firebase](https://ankitsharmablogs.com/announcing-a-free-ebook-on-angular-and-firebase/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-a-free-ebook-on-angular-and-firebase)
 - [Optical Character Reader Using Angular And Azure Computer Vision](https://ankitsharmablogs.com/optical-character-reader-using-angular-and-azure-computer-vision/?utm_source=rss&utm_medium=rss&utm_campaign=optical-character-reader-using-angular-and-azure-computer-vision)
@@ -33,3 +35,4 @@
 [website]: https://ankitsharmablogs.com/
 [twitter]: https://twitter.com/ankitsharma_007
 [linkedin]: https://www.linkedin.com/in/ankitsharma-007/
+[medium]: https://medium.com/@ankitsharmablog
