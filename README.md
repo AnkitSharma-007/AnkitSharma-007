@@ -31,9 +31,24 @@
 
 ---
 
+### Publications
+
+[![Learn C# Programming][C# Book cover]][C# Book]
+[![Blazor Quick Start Guide][Blazor Book cover]][Blazor Book]
+[![Learn C# Programming][Angular Book cover]][Angular Book]
+
+---
+
 [![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=AnkitSharma-007&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/AnkitSharma-007/github-readme-stats)
 
 [website]: https://ankitsharmablogs.com/
 [twitter]: https://twitter.com/ankitsharma_007
 [linkedin]: https://www.linkedin.com/in/ankitsharma-007/
 [medium]: https://medium.com/@ankitsharmablog
+[C# Book cover]:https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=B0862DM82C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
+[C# Book]:https://amzn.to/3c2r5MO
+[Blazor Book cover]:https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=178934414X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
+[Blazor Book]:https://amzn.to/2OToEji
+[Angular Book cover]:https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/EBooks/04282020013139AM/04282020015018AMAnkit%20Book%20Cover.jpg
+[Angular Book]:https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase
+
