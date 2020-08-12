@@ -1,8 +1,8 @@
-### Hi there, I'm [Ankit][website] 👋
+### Hello World !!! I'm [Ankit][website] 👋
 
 ## Author | Speaker | Passionate Programmer
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a Angular, Blazor, ASP.NET Core, Azure Cognitive Service
 - 🌱 I’m currently learning RxJS, Angular 🤣
 - 💬 Ask me about Angular, Blazor, ASP.NET Core, Firebase
 - 📫 How to reach me: [@ankitsharma_007][twitter]
@@ -40,6 +40,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Going Serverless With Blazor](https://ankitsharmablogs.com/going-serverless-with-blazor/?utm_source=rss&utm_medium=rss&utm_campaign=going-serverless-with-blazor)
 - [Announcing A Free eBook On Angular and Firebase](https://ankitsharmablogs.com/announcing-a-free-ebook-on-angular-and-firebase/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-a-free-ebook-on-angular-and-firebase)
 - [Optical Character Reader Using Angular And Azure Computer Vision](https://ankitsharmablogs.com/optical-character-reader-using-angular-and-azure-computer-vision/?utm_source=rss&utm_medium=rss&utm_campaign=optical-character-reader-using-angular-and-azure-computer-vision)
