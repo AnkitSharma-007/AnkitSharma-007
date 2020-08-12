@@ -1,10 +1,10 @@
-### Hello World !!! I'm [Ankit][website] 👋
+## Hello World !!! I'm [Ankit][website] 👋
 
-## Author | Speaker | Passionate Programmer
+### Author | Speaker | Passionate Programmer
 
 - 🔭 I’m currently working on a Angular, Blazor, ASP.NET Core, Azure Cognitive Service
 - 🌱 I’m currently learning RxJS, Angular
-- 💬 Ask me about Angular, Blazor, ASP.NET Core, Firebase
+- 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, Firebase
 - 📫 How to reach me: [@ankitsharma_007][twitter]
 
 ### Connect with me:
@@ -15,7 +15,8 @@
 [<img align="left" alt="ankitsharma_007 | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][medium]
 
 <br />
-<br />
+
+---
 
 ### 📕 Latest Blog Posts
 
@@ -30,7 +31,7 @@
 
 ---
 
-[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=AnkitSharma-007&theme=vue&show_icons=true)](https://github.com/AnkitSharma-007/github-readme-stats)
+[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=AnkitSharma-007&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/AnkitSharma-007/github-readme-stats)
 
 [website]: https://ankitsharmablogs.com/
 [twitter]: https://twitter.com/ankitsharma_007
