@@ -50,7 +50,7 @@
 
 ---
 
-[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=AnkitSharma-007theme=buefy &show_icons=true)](https://github.com/AnkitSharma-007/github-readme-stats)
+[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=AnkitSharma-007&theme=vue&show_icons=true)](https://github.com/AnkitSharma-007/github-readme-stats)
 
 [website]: https://ankitsharmablogs.com/
 [twitter]: https://twitter.com/ankitsharma_007
