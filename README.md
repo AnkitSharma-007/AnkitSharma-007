@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a Angular, Blazor, ASP.NET Core, Azure Cognitive Service
 - 🌱 I’m currently learning RxJS, Angular
-- 💬 Ask me about Angular, Blazor, ASP.NET Core, Firebase
+- 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, Firebase
 - 📫 How to reach me: [@ankitsharma_007][twitter]
 
 ### Connect with me:
@@ -13,7 +13,6 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
 <br />
 
 ---
