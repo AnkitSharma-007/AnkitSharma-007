@@ -1,6 +1,6 @@
-### Hello World !!! I'm [Ankit][website] 👋
+## Hello World !!! I'm [Ankit][website] 👋
 
-## Author | Speaker | Passionate Programmer
+### Author | Speaker | Passionate Programmer
 
 - 🔭 I’m currently working on a Angular, Blazor, ASP.NET Core, Azure Cognitive Service
 - 🌱 I’m currently learning RxJS, Angular
