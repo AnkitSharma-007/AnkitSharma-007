@@ -2,9 +2,9 @@
 
 ### Author | Speaker | Passionate Programmer
 
-- 🔭 I’m currently working on a Angular, Blazor, ASP.NET Core, Azure Cognitive Service
-- 🌱 I’m currently learning RxJS, Angular
-- 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, Firebase
+- 🔭 I’m currently working on Angular, Blazor, ASP.NET Core, Azure Cognitive Service
+- 🌱 I’m currently learning RxJS, NgRx, Angular
+- 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, Firebase, Blogging
 - 📫 How to reach me: [@ankitsharma_007][twitter]
 
 ### Connect with me:
