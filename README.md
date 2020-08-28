@@ -1,4 +1,4 @@
-## Hello World !!! I'm [Ankit][website] 👋
+## Hello World !!! I'm [Ankit][website] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ankitsharma-007" alt="ankitsharma-007" />
 
 ### Author | Speaker | Passionate Programmer
 
@@ -7,7 +7,7 @@
 - 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, Firebase, Blogging
 - 📫 How to reach me: [@ankitsharma_007][twitter]
 
-### Connect with me:
+### 🤝 Connect with me:
 
 [<img align="left" alt="ankitsharma_007 | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="ankitsharma_007 | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -16,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### 👨‍💻 Languages and Tools:
 
 <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -53,7 +53,7 @@
 
 ---
 
-### Publications
+### 📕 Publications
 
 [![Learn C# Programming][c# book cover]][c# book]
 [![Blazor Quick Start Guide][blazor book cover]][blazor book]
