@@ -9,11 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ankitsharma_007" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ankitsharma_007 | Facebook" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="ankitsharma_007 | Twitter" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ankitsharma_007 | LinkedIn" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ankitsharma_007 | Medium" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="ankitsharma_007 | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="ankitsharma_007 | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="ankitsharma_007 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="ankitsharma_007 | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
 
 <br />
 
@@ -39,9 +38,12 @@
 
 <br/>
 
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Going Serverless With Blazor](https://ankitsharmablogs.com/going-serverless-with-blazor/?utm_source=rss&utm_medium=rss&utm_campaign=going-serverless-with-blazor)
 - [Announcing A Free eBook On Angular and Firebase](https://ankitsharmablogs.com/announcing-a-free-ebook-on-angular-and-firebase/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-a-free-ebook-on-angular-and-firebase)
 - [Optical Character Reader Using Angular And Azure Computer Vision](https://ankitsharmablogs.com/optical-character-reader-using-angular-and-azure-computer-vision/?utm_source=rss&utm_medium=rss&utm_campaign=optical-character-reader-using-angular-and-azure-computer-vision)
