@@ -9,14 +9,35 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ankitsharma_007" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ankitsharma_007 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ankitsharma_007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ankitsharma_007 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="ankitsharma_007" height="32" width="32" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ankitsharma_007 | Facebook" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="ankitsharma_007 | Twitter" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ankitsharma_007 | LinkedIn" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ankitsharma_007 | Medium" height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
----
+### Languages and Tools:
+
+<img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Bootstrap" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="JS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Angular"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="NodeJS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Typescript"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="csharp"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="dotnet"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
+<img align="left" alt="aspnet"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
+<img align="left" alt="SQL"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="mongodb"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Firebase"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="Azure"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
+<img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="git"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br/>
 
 ### 📕 Latest Blog Posts
 
@@ -33,22 +54,22 @@
 
 ### Publications
 
-[![Learn C# Programming][C# Book cover]][C# Book]
-[![Blazor Quick Start Guide][Blazor Book cover]][Blazor Book]
-[![Learn C# Programming][Angular Book cover]][Angular Book]
+[![Learn C# Programming][c# book cover]][c# book]
+[![Blazor Quick Start Guide][blazor book cover]][blazor book]
+[![Learn C# Programming][angular book cover]][angular book]
 
 ---
 
 [![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=AnkitSharma-007&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/AnkitSharma-007/github-readme-stats)
 
 [website]: https://ankitsharmablogs.com/
+[facebook]: https://www.facebook.com/Ankit.Sharma.0709
 [twitter]: https://twitter.com/ankitsharma_007
 [linkedin]: https://www.linkedin.com/in/ankitsharma-007/
 [medium]: https://medium.com/@ankitsharmablog
-[C# Book cover]:https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=B0862DM82C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
-[C# Book]:https://amzn.to/3c2r5MO
-[Blazor Book cover]:https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=178934414X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
-[Blazor Book]:https://amzn.to/2OToEji
-[Angular Book cover]:https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/EBooks/04282020013139AM/04282020015018AMAnkit%20Book%20Cover.jpg
-[Angular Book]:https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase
-
+[c# book cover]: https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=B0862DM82C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
+[c# book]: https://amzn.to/3c2r5MO
+[blazor book cover]: https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=178934414X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
+[blazor book]: https://amzn.to/2OToEji
+[angular book cover]: https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/EBooks/04282020013139AM/04282020015018AMAnkit%20Book%20Cover.jpg
+[angular book]: https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase
