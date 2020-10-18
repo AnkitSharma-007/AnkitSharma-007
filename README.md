@@ -75,3 +75,4 @@
 [blazor book]: https://amzn.to/2OToEji
 [angular book cover]: https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/EBooks/04282020013139AM/04282020015018AMAnkit%20Book%20Cover.jpg
 [angular book]: https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase
+
