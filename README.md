@@ -58,7 +58,7 @@
 
 [![Learn C# Programming][c# book cover]][c# book]
 [![Blazor Quick Start Guide][blazor book cover]][blazor book]
-[![Learn C# Programming][angular book cover]][angular book]
+[![Build a Full-Stack Web Application Using Angular & Firebase][angular book cover]][angular book]
 
 ---
 
