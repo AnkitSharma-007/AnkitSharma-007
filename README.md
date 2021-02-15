@@ -73,6 +73,6 @@
 [c# book]: https://amzn.to/3c2r5MO
 [blazor book cover]: https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=178934414X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
 [blazor book]: https://amzn.to/2OToEji
-[angular book cover]: https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/EBooks/04282020013139AM/04282020015018AMAnkit%20Book%20Cover.jpg
+[angular book cover]: https://i2.wp.com/ankitsharmablogs.com/wp-content/uploads/2020/04/BUILD-A-FULL-STACK-WEB-APPLICATION-USING-ANGULAR-AND-FIREBASE_Book-Cover.jpg
 [angular book]: https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase
 
