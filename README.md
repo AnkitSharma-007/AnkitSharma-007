@@ -9,10 +9,11 @@
 
 ### 🤝 Connect with me:
 
-[<img align="left" alt="ankitsharma_007 | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="ankitsharma_007 | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="ankitsharma_007 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="ankitsharma_007 | Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img align="left" alt="ankitsharma_007 | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="ankitsharma_007 | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="ankitsharma_007 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="ankitsharma_007 | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img align="left" alt="ankitsharma_007 | Medium" src="https://img.shields.io/badge/freecodecamp-339933?style=for-the-badge&logo=freecodecamp&logoColor=white" />][freecodecamp]
 
 <br />
 
@@ -68,9 +69,11 @@
 
 If you like my content, please consider buying me a coffee :coffee:
 <br />
+<br />
 Thank you for your support! 
 
-<a href="https://www.buymeacoffee.com/ankitsharma" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
+
+[<img align="left" alt="Buy Me A Coffee" height="40" width="160" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />][buy me a coffee]
 
 
 [website]: https://ankitsharmablogs.com/
@@ -78,10 +81,12 @@ Thank you for your support!
 [twitter]: https://twitter.com/ankitsharma_007
 [linkedin]: https://www.linkedin.com/in/ankitsharma-007/
 [medium]: https://medium.com/@ankitsharmablog
+[freecodecamp]: https://www.freecodecamp.org/news/author/ankitsharmablog/
 [c# book cover]: https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=B0862DM82C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
 [c# book]: https://amzn.to/3c2r5MO
 [blazor book cover]: https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=178934414X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
 [blazor book]: https://amzn.to/2OToEji
 [angular book cover]: https://i2.wp.com/ankitsharmablogs.com/wp-content/uploads/2020/04/BUILD-A-FULL-STACK-WEB-APPLICATION-USING-ANGULAR-AND-FIREBASE_Book-Cover.jpg
 [angular book]: https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase
+[buy me a coffee]: https://www.buymeacoffee.com/ankitsharma
 
