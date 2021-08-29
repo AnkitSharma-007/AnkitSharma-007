@@ -1,4 +1,4 @@
-## Hello World !!! I'm [Ankit][website] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ankitsharma-007" alt="ankitsharma-007" />
+# Hello World !!! I'm [Ankit][website] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ankitsharma-007" alt="ankitsharma-007" />
 
 ### Author | Speaker | Passionate Programmer
 
@@ -55,7 +55,7 @@
 
 ---
 
-### 📕 Publications
+### 📕 Publications  
 
 [![Learn C# Programming][c# book cover]][c# book]
 [![Blazor Quick Start Guide][blazor book cover]][blazor book]
@@ -63,15 +63,20 @@
 
 ---
 
-[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=AnkitSharma-007&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/AnkitSharma-007/github-readme-stats)
+### :movie_camera: Courses  
+
+[![Getting Started with Blazor][Blazor course cover]][Blazor course]
 
 ---
+
+[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=AnkitSharma-007&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/AnkitSharma-007/github-readme-stats)
+
+<br />
 
 If you like my content, please consider buying me a coffee :coffee:
 <br />
 <br />
 Thank you for your support! 
-
 
 [<img align="left" alt="Buy Me A Coffee" height="40" width="160" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />][buy me a coffee]
 
@@ -88,5 +93,7 @@ Thank you for your support!
 [blazor book]: https://amzn.to/2OToEji
 [angular book cover]: https://i2.wp.com/ankitsharmablogs.com/wp-content/uploads/2020/04/BUILD-A-FULL-STACK-WEB-APPLICATION-USING-ANGULAR-AND-FIREBASE_Book-Cover.jpg
 [angular book]: https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase
+[Blazor course cover]: https://i0.wp.com/ankitsharmablogs.com/wp-content/uploads/2021/08/CodeRed-Ankit-Sharma-Banner.jpg
+[Blazor course]: https://codered.eccouncil.org/course/getting-started-with-blazor
 [buy me a coffee]: https://www.buymeacoffee.com/ankitsharma
 
