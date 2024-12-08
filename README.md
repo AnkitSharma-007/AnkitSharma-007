@@ -2,18 +2,17 @@
 
 ### Author | Speaker | Passionate Programmer
 
-- 🔭 I’m currently working on Angular, Blazor, .NET, Azure Cognitive Service
-- 🌱 I’m currently learning RxJS, NgRx, GraphQL
-- 💬 Ask me about Angular, Blazor, ASP.NET Core, C#, Firebase, Blogging
+- 🔭 I’m currently working on Angular, .NET, Azure Cognitive Services
+- 🌱 I’m currently exploring advanced concepts of RxJS, NgRx, GraphQL, Software architecture
+- 💬 Ask me about Angular, .NET, Software architecture, Blogging, Public speaking
 - 📫 How to reach me: [@ankitsharma_007][twitter]
 
 ## 🤝 Connect with me:
 
-[<img align="left" alt="ankitsharma_007 | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="ankitsharma_007 | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="ankitsharma_007 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="ankitsharma_007 | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
-[<img align="left" alt="ankitsharma_007 | Medium" src="https://img.shields.io/badge/freecodecamp-339933?style=for-the-badge&logo=freecodecamp&logoColor=white" />][freecodecamp]
+[<img align="left" alt="ankitsharma_007 | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
 <br />
 <br />
@@ -25,14 +24,13 @@
 <img align="left" alt="Sass" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Bootstrap" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="JS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Angular"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="Angular"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/c700f6f5bb68a850405eef411cf878162ff34b59/topics/angular/angular.png" />
 <img align="left" alt="NodeJS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Typescript"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="csharp"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="dotnet"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
-<img align="left" alt="aspnet"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
-<img align="left" alt="SQL"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="mongodb"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="csharp"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png" />
+<img align="left" alt="dotnet"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/a92591a79a4ce31660058d7ccc66c79266931f61/topics/dotnet/dotnet.png" />
+<img align="left" alt="sqlserver"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" />
+<img align="left" alt="graphQL"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" />
 <img align="left" alt="Firebase"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Azure"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -79,13 +77,12 @@ Thank you for your support!
 
 [website]: https://ankitsharmablogs.com/
 [facebook]: https://www.facebook.com/Ankit.Sharma.0709
-[twitter]: https://twitter.com/ankitsharma_007
+[twitter]: https://x.com/ankitsharma_007
 [linkedin]: https://www.linkedin.com/in/ankitsharma-007/
 [medium]: https://medium.com/@ankitsharmablog
-[freecodecamp]: https://www.freecodecamp.org/news/author/ankitsharmablog/
-[c# book cover]: https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=B0862DM82C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
+[c# book cover]: https://i0.wp.com/ankitsharmablogs.com/wp-content/uploads/2024/04/CProgrammingBookCover.jpeg?w=200&h=250
 [c# book]: https://amzn.to/3c2r5MO
-[blazor book cover]: https://ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=178934414X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=007056f-21
+[blazor book cover]: https://i0.wp.com/ankitsharmablogs.com/wp-content/uploads/2024/04/BlazorBookCover.jpeg?w=200&h=250
 [blazor book]: https://amzn.to/2OToEji
 [angular book cover]: https://i2.wp.com/ankitsharmablogs.com/wp-content/uploads/2020/04/BUILD-A-FULL-STACK-WEB-APPLICATION-USING-ANGULAR-AND-FIREBASE_Book-Cover.jpg
 [angular book]: https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase
