@@ -41,11 +41,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing A New Blazor Course](https://ankitsharmablogs.com/announcing-a-new-blazor-course/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-a-new-blazor-course)
-- [How To Solve Sudoku Using Azure Form Recognizer](https://ankitsharmablogs.com/how-to-solve-sudoku-using-azure-form-recognizer/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-solve-sudoku-using-azure-form-recognizer)
-- [Going Serverless With Blazor](https://ankitsharmablogs.com/going-serverless-with-blazor/?utm_source=rss&utm_medium=rss&utm_campaign=going-serverless-with-blazor)
-- [Announcing A Free eBook On Angular and Firebase](https://ankitsharmablogs.com/announcing-a-free-ebook-on-angular-and-firebase/?utm_source=rss&utm_medium=rss&utm_campaign=announcing-a-free-ebook-on-angular-and-firebase)
-- [Optical Character Reader Using Angular And Azure Computer Vision](https://ankitsharmablogs.com/optical-character-reader-using-angular-and-azure-computer-vision/?utm_source=rss&utm_medium=rss&utm_campaign=optical-character-reader-using-angular-and-azure-computer-vision)
+- [Angular Signals: Reactive Programming Simplified](https://www.syncfusion.com/blogs/post/angular-signals-reactive-programming)
+- [Zoneless Change Detection in Angular 18: Boost Performance](https://www.syncfusion.com/blogs/post/zoneless-change-detection-angular-18)
+- [Deploy Angular App with GraphQL on IIS &amp; Azure &lpar;Part 7&rpar;](https://www.syncfusion.com/blogs/post/deploy-graphql-angular-on-iss-azure-7)
+- [Build a Dynamic Watchlist for Your Web App with Angular &amp; GraphQL &lpar;Part 6&rpar;](https://www.syncfusion.com/blogs/post/build-dynamic-watchlist-angular-graphql)
+- [A Full-Stack Web App Using Angular and GraphQL: Adding Login and Authorization Functionalities &lpar;Part 5&rpar;](https://www.syncfusion.com/blogs/post/full-stack-app-angular-graphql-5)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:activity-->
