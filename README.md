@@ -49,6 +49,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/AnkitSharma-007/AnkitSharma-007/pull/1) in [AnkitSharma-007/AnkitSharma-007](https://github.com/AnkitSharma-007/AnkitSharma-007)
+2. 💪 Opened PR [#2](https://github.com/SyncfusionExamples/angular-signals-demo/pull/2) in [SyncfusionExamples/angular-signals-demo](https://github.com/SyncfusionExamples/angular-signals-demo)
+3. ❗ Opened issue [#58036](https://github.com/angular/angular/issues/58036) in [angular/angular](https://github.com/angular/angular)
+<!--END_SECTION:activity-->
 
 ## 📕 Publications  
 
