@@ -1,16 +1,24 @@
-name: Latest blog post workflow
+name: Update README
+
 on:
   schedule:
-    # Runs at 00:00 UTC on Sun
-    - cron: "0 0 * * 0"
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: checkput main branch
+        uses: actions/checkout@v3
+      - name: update readme
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: update blogs
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://ankitsharmablogs.com/feed/"
+          max_post_count: "5"
+          feed_list: "https://www.syncfusion.com/blogs/author/ankit-sharma/feed"
