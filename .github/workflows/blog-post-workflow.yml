@@ -3,7 +3,7 @@ name: Update README
 on:
   schedule:
   # Runs every other Sunday at 0900 hours
-    - cron: '0 9 * * sun%2'
+    - cron: '0 9 */14 * 0'
   workflow_dispatch:
 
 jobs:

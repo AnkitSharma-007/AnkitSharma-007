@@ -48,6 +48,7 @@
 - [Optical Character Reader Using Angular And Azure Computer Vision](https://ankitsharmablogs.com/optical-character-reader-using-angular-and-azure-computer-vision/?utm_source=rss&utm_medium=rss&utm_campaign=optical-character-reader-using-angular-and-azure-computer-vision)
 <!-- BLOG-POST-LIST:END -->
 
+<!--START_SECTION:activity-->
 
 ## 📕 Publications  
 
