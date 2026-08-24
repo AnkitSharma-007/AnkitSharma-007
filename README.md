@@ -9,8 +9,8 @@ I build frontend systems that make complex products easier to develop, operate, 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
-[![Google Developer Expert](https://img.shields.io/badge/GDE-Angular-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/community/experts)
-[![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/)
+[![Google Developer Expert](https://img.shields.io/badge/GDE-Angular-4285F4?style=flat-square&logo=google&logoColor=white)](https://me.developers.google.com/u/106048675719841302307)
+[![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/mvp/profile/8d005390-2d2e-eb11-a813-000d3a8dfe0d)
 
 ## Current Focus
 
