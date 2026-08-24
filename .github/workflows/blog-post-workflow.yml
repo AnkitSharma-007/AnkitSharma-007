@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update latest Syncfusion posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
         with:
           feed_list: "https://www.syncfusion.com/blogs/author/ankit-sharma/feed"
           max_post_count: "5"
