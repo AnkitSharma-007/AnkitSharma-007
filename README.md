@@ -12,13 +12,6 @@ I build frontend systems that make complex products easier to develop, operate, 
 [![Google Developer Expert](https://img.shields.io/badge/GDE-Angular-4285F4?style=flat-square&logo=google&logoColor=white)](https://me.developers.google.com/u/106048675719841302307)
 [![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/mvp/profile/8d005390-2d2e-eb11-a813-000d3a8dfe0d)
 
-## Current Focus
-
-- Building agentic web applications with Angular and Google Gemini.
-- Designing generative UI systems that render typed, interactive components instead of chat transcripts.
-- Exploring resilient orchestration patterns, observability, evaluation, and human-in-the-loop repair for AI-powered products.
-- Sharing practical guidance on Angular architecture, performance, reactivity, and applied AI.
-
 ## Featured Work
 
 ### [Maestro](https://github.com/AnkitSharma-007/maestro-gemini-multi-agent-angular)
@@ -39,17 +32,20 @@ An open-source, searchable guide to commonly used RxJS operators, with Angular e
 
 [Repository](https://github.com/AnkitSharma-007/rxjs-angular-interview-guide) · [Read the guide](https://ankitsharma-007.github.io/rxjs-angular-interview-guide/)
 
+Alongside these, I maintain around 75 open-source repositories with over 1,500 stars in total. The most widely used is [BookCart](https://github.com/AnkitSharma-007/BookCart), a full-stack Angular and ASP.NET Core e-commerce reference application with roughly 200 stars and 130 forks.
+
+## Current Focus
+
+- Building agentic web applications with Angular and Google Gemini.
+- Designing generative UI systems that render typed, interactive components instead of chat transcripts.
+- Exploring resilient orchestration patterns, observability, evaluation, and human-in-the-loop repair for AI-powered products.
+- Sharing practical guidance on Angular architecture, performance, reactivity, and applied AI.
+
 ## Recent Writing
 
 I write frequently about modern Angular, frontend architecture, performance, and applied AI at Syncfusion.
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Angular Material or PrimeNG? Choosing the Right UI Library in 2026](https://www.syncfusion.com/blogs/post/angular-material-vs-primeng)
-- [Incremental Hydration in Angular: Build SSR Apps That Feel Instantly Interactive](https://www.syncfusion.com/blogs/post/incremental-hydration-in-angular-apps)
-- [How to Build an AI-Powered Writing Assistant in Angular Using Google Gemini API (Part 2)](https://www.syncfusion.com/blogs/post/ai-writing-assistant-angular-gemini-2)
-- [How to Build an AI-Powered Writing Assistant in Angular Using Google Gemini API (Part 1)](https://www.syncfusion.com/blogs/post/ai-writing-assistant-angular-gemini)
-- [10 Angular Performance Hacks to Supercharge Your Web Apps](https://www.syncfusion.com/blogs/post/angular-performance-optimization)
 <!-- BLOG-POST-LIST:END -->
 
 [View all Syncfusion articles](https://www.syncfusion.com/blogs/author/ankit-sharma)
@@ -57,15 +53,15 @@ I write frequently about modern Angular, frontend architecture, performance, and
 ## Expertise
 
 **Frontend:** Angular, TypeScript, RxJS, signals, zoneless applications, design systems, accessibility, performance, and frontend architecture<br>
-**Applied AI:** Gemini, multi-agent orchestration, structured output, generative UI, grounding, evaluation, and bring-your-own-key applications<br>
-**Broader engineering:** JavaScript, C#, .NET, GraphQL, Firebase, Azure, and software architecture
+**Applied AI:** Gemini, multi-agent orchestration, structured output, generative UI, grounding, and evaluation<br>
+**Broader engineering:** C#, .NET, GraphQL, Firebase, and Azure
 
 ## Publications and Teaching
 
-- [Learn C# Programming](https://amzn.to/3c2r5MO)
-- [Blazor Quick Start Guide](https://amzn.to/2OToEji)
-- [Build a Full-Stack Web Application Using Angular and Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase)
-- [Getting Started with Blazor](https://codered.eccouncil.org/course/getting-started-with-blazor)
+- [Learn C# Programming](https://www.amazon.com/dp/B0862DM82C). Packt, 2020. Co-authored with Marius Bancila, Raffaele Rialdi, and Dino Esposito.
+- [Blazor Quick Start Guide](https://www.amazon.com/dp/178934414X). Packt, 2018. The first published book on Blazor.
+- [Build a Full-Stack Web Application Using Angular and Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase). C# Corner ebook, 2020.
+- [Getting Started with Blazor](https://codered.eccouncil.org/course/getting-started-with-blazor). EC-Council CodeRed video course, 2021.
 
 ## Connect
 
