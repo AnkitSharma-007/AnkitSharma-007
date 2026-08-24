@@ -46,6 +46,11 @@ Alongside these, I maintain around 75 open-source repositories with over 1,500 s
 I write frequently about modern Angular, frontend architecture, performance, and applied AI at Syncfusion.
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular Material or PrimeNG? Choosing the Right UI Library in 2026](https://www.syncfusion.com/blogs/post/angular-material-vs-primeng)
+- [Incremental Hydration in Angular: Build SSR Apps That Feel Instantly Interactive](https://www.syncfusion.com/blogs/post/incremental-hydration-in-angular-apps)
+- [How to Build an AI-Powered Writing Assistant in Angular Using Google Gemini API &lpar;Part 2&rpar;](https://www.syncfusion.com/blogs/post/ai-writing-assistant-angular-gemini-2)
+- [How to Build an AI-Powered Writing Assistant in Angular Using Google Gemini API &lpar;Part 1&rpar;](https://www.syncfusion.com/blogs/post/ai-writing-assistant-angular-gemini)
+- [10 Angular Performance Hacks to Supercharge Your Web Apps](https://www.syncfusion.com/blogs/post/angular-performance-optimization)
 <!-- BLOG-POST-LIST:END -->
 
 [View all Syncfusion articles](https://www.syncfusion.com/blogs/author/ankit-sharma)
