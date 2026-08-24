@@ -8,10 +8,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: update-profile-readme
-  cancel-in-progress: true
-
 jobs:
   update-readme:
     name: Update README with latest Syncfusion articles
