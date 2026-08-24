@@ -1,92 +1,72 @@
-# Hello World !!! I am [Ankit][website] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ankitsharma-007" alt="ankitsharma-007" />
+# Ankit Sharma
 
-### Author | Speaker | Passionate Programmer
+**Staff Frontend Engineer at Celonis · Google Developer Expert for Angular · Microsoft MVP**
 
-- 🔭 I’m currently working on Angular, .NET, Azure Cognitive Services
-- 🌱 I’m currently exploring advanced concepts of RxJS, NgRx, GraphQL, Software architecture
-- 💬 Ask me about Angular, .NET, Software architecture, Blogging, Public speaking
-- 📫 How to reach me: [@ankitsharma_007][twitter]
+I build frontend systems that make complex products easier to develop, operate, and evolve. My current work sits at the intersection of Angular architecture and applied AI: agent orchestration, structured outputs, and generative interfaces that turn model responses into useful product experiences.
 
-## 🤝 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/ankitsharma-007/) · [Syncfusion articles](https://www.syncfusion.com/blogs/author/ankit-sharma) · [Website](https://ankitsharmablogs.com/) · [X](https://x.com/ankitsharma_007)
 
-[<img align="left" alt="ankitsharma_007 | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="ankitsharma_007 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="ankitsharma_007 | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
-[<img align="left" alt="ankitsharma_007 | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
+[![Google Developer Expert](https://img.shields.io/badge/GDE-Angular-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/community/experts)
+[![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/)
 
-<br />
-<br />
+## Current Focus
 
-## 👨‍💻 Languages and Tools
+- Building agentic web applications with Angular and Google Gemini.
+- Designing generative UI systems that render typed, interactive components instead of chat transcripts.
+- Exploring resilient orchestration patterns, observability, evaluation, and human-in-the-loop repair for AI-powered products.
+- Sharing practical guidance on Angular architecture, performance, reactivity, and applied AI.
 
-<img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Angular"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/c700f6f5bb68a850405eef411cf878162ff34b59/topics/angular/angular.png" />
-<img align="left" alt="NodeJS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Typescript"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="csharp"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png" />
-<img align="left" alt="dotnet"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/a92591a79a4ce31660058d7ccc66c79266931f61/topics/dotnet/dotnet.png" />
-<img align="left" alt="sqlserver"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" />
-<img align="left" alt="graphQL"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" />
-<img align="left" alt="Firebase"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Azure"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+## Featured Work
 
-<br />
-<br />
+### [Maestro](https://github.com/AnkitSharma-007/maestro-gemini-multi-agent-angular)
 
-## 📝 Latest Blog Posts
+A zoneless Angular and Gemini application where five specialized agents turn one natural-language brief into a live event-planning dashboard. It demonstrates multi-agent orchestration, structured output, generative UI, Google Search grounding, telemetry, cross-widget auditing, and one-click repair in a browser-only, bring-your-own-key architecture.
+
+[Repository](https://github.com/AnkitSharma-007/maestro-gemini-multi-agent-angular) · [Live demo](https://maestro-gemini-multi-agent-angular.vercel.app/)
+
+### [AI-Powered Writing Assistant](https://github.com/AnkitSharma-007/angular-gemini-writing-assistant)
+
+A lightweight Angular application that uses Gemini for real-time grammar corrections. It combines signals, effects, strict structured responses, debounced requests, token tracking, and local API-key storage in a focused reference implementation.
+
+[Repository](https://github.com/AnkitSharma-007/angular-gemini-writing-assistant) · [Live demo](https://angular-gemini-writing-assistant.vercel.app/)
+
+### [RxJS Interview Guide for Angular Developers](https://github.com/AnkitSharma-007/rxjs-angular-interview-guide)
+
+An open-source, searchable guide to commonly used RxJS operators, with Angular examples, interview questions, practical guidance, and common pitfalls.
+
+[Repository](https://github.com/AnkitSharma-007/rxjs-angular-interview-guide) · [Read the guide](https://ankitsharma-007.github.io/rxjs-angular-interview-guide/)
+
+## Recent Writing
+
+I write frequently about modern Angular, frontend architecture, performance, and applied AI at Syncfusion.
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular Signals: Reactive Programming Simplified](https://www.syncfusion.com/blogs/post/angular-signals-reactive-programming)
-- [Zoneless Change Detection in Angular 18: Boost Performance](https://www.syncfusion.com/blogs/post/zoneless-change-detection-angular-18)
-- [Deploy Angular App with GraphQL on IIS &amp; Azure &lpar;Part 7&rpar;](https://www.syncfusion.com/blogs/post/deploy-graphql-angular-on-iss-azure-7)
-- [Build a Dynamic Watchlist for Your Web App with Angular &amp; GraphQL &lpar;Part 6&rpar;](https://www.syncfusion.com/blogs/post/build-dynamic-watchlist-angular-graphql)
-- [A Full-Stack Web App Using Angular and GraphQL: Adding Login and Authorization Functionalities &lpar;Part 5&rpar;](https://www.syncfusion.com/blogs/post/full-stack-app-angular-graphql-5)
+
+- [Angular Material or PrimeNG? Choosing the Right UI Library in 2026](https://www.syncfusion.com/blogs/post/angular-material-vs-primeng)
+- [Incremental Hydration in Angular: Build SSR Apps That Feel Instantly Interactive](https://www.syncfusion.com/blogs/post/incremental-hydration-in-angular-apps)
+- [How to Build an AI-Powered Writing Assistant in Angular Using Google Gemini API (Part 2)](https://www.syncfusion.com/blogs/post/ai-writing-assistant-angular-gemini-2)
+- [How to Build an AI-Powered Writing Assistant in Angular Using Google Gemini API (Part 1)](https://www.syncfusion.com/blogs/post/ai-writing-assistant-angular-gemini)
+- [10 Angular Performance Hacks to Supercharge Your Web Apps](https://www.syncfusion.com/blogs/post/angular-performance-optimization)
 <!-- BLOG-POST-LIST:END -->
 
+[View all Syncfusion articles](https://www.syncfusion.com/blogs/author/ankit-sharma)
 
-## 📕 Publications  
+## Expertise
 
-[![Learn C# Programming][c# book cover]][c# book]
-[![Blazor Quick Start Guide][blazor book cover]][blazor book]
-[![Build a Full-Stack Web Application Using Angular & Firebase][angular book cover]][angular book]
+**Frontend:** Angular, TypeScript, RxJS, signals, zoneless applications, design systems, accessibility, performance, and frontend architecture<br>
+**Applied AI:** Gemini, multi-agent orchestration, structured output, generative UI, grounding, evaluation, and bring-your-own-key applications<br>
+**Broader engineering:** JavaScript, C#, .NET, GraphQL, Firebase, Azure, and software architecture
 
+## Publications and Teaching
 
-## :movie_camera: Courses  
+- [Learn C# Programming](https://amzn.to/3c2r5MO)
+- [Blazor Quick Start Guide](https://amzn.to/2OToEji)
+- [Build a Full-Stack Web Application Using Angular and Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase)
+- [Getting Started with Blazor](https://codered.eccouncil.org/course/getting-started-with-blazor)
 
-[![Getting Started with Blazor][Blazor course cover]][Blazor course]
+## Connect
 
----
-
-| <a href="https://github.com/AnkitSharma-007/AnkitSharma-007"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitSharma-007&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ankit's github stats" /></a> | <a href="https://github.com/AnkitSharma-007/AnkitSharma-007"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharma-007&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<br />
-
-If you like my content, please consider buying me a coffee :coffee:
-<br />
-<br />
-Thank you for your support! 
-
-[<img align="left" alt="Buy Me A Coffee" height="40" width="160" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />][buy me a coffee]
-
-
-[website]: https://ankitsharmablogs.com/
-[facebook]: https://www.facebook.com/Ankit.Sharma.0709
-[twitter]: https://x.com/ankitsharma_007
-[linkedin]: https://www.linkedin.com/in/ankitsharma-007/
-[medium]: https://medium.com/@ankitsharmablog
-[c# book cover]: https://i0.wp.com/ankitsharmablogs.com/wp-content/uploads/2024/04/CProgrammingBookCover.jpeg?w=200&h=250
-[c# book]: https://amzn.to/3c2r5MO
-[blazor book cover]: https://i0.wp.com/ankitsharmablogs.com/wp-content/uploads/2024/04/BlazorBookCover.jpeg?w=200&h=250
-[blazor book]: https://amzn.to/2OToEji
-[angular book cover]: https://i2.wp.com/ankitsharmablogs.com/wp-content/uploads/2020/04/BUILD-A-FULL-STACK-WEB-APPLICATION-USING-ANGULAR-AND-FIREBASE_Book-Cover.jpg
-[angular book]: https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase
-[Blazor course cover]: https://i0.wp.com/ankitsharmablogs.com/wp-content/uploads/2021/08/CodeRed-Ankit-Sharma-Banner.jpg
-[Blazor course]: https://codered.eccouncil.org/course/getting-started-with-blazor
-[buy me a coffee]: https://www.buymeacoffee.com/ankitsharma
-
+The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/ankitsharma-007/). I also publish longer technical articles through my [Syncfusion author page](https://www.syncfusion.com/blogs/author/ankit-sharma).

@@ -1,25 +1,32 @@
-name: Update README
+name: Update latest blog posts
 
 on:
   schedule:
-  # Runs every other Sunday at 0900 hours
-    - cron: '0 9 */14 * 0'
+    - cron: "0 6 1,16 * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-readme
+  cancel-in-progress: true
+
 jobs:
-  build:
+  update-readme:
+    name: Update README with latest Syncfusion articles
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
 
     steps:
-      - name: checkput main branch
-        uses: actions/checkout@v3
-      - name: update readme
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: update blogs
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Update latest Syncfusion posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: "5"
           feed_list: "https://www.syncfusion.com/blogs/author/ankit-sharma/feed"
+          max_post_count: "5"
+          commit_message: "docs: update latest Syncfusion articles"
+          retry_count: "2"
+          retry_wait_time: "5"
+          enable_keepalive: "true"
