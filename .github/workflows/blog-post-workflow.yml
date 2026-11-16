@@ -17,12 +17,22 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Update latest Syncfusion posts
-        uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          feed_list: "https://www.syncfusion.com/blogs/author/ankit-sharma/feed"
-          max_post_count: "5"
-          commit_message: "docs: update latest Syncfusion articles"
-          retry_count: "2"
-          retry_wait_time: "5"
-          enable_keepalive: "true"
+          node-version: 22
+
+      - name: Fetch latest posts from the author page
+        run: node .github/scripts/update-posts.mjs
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "blog-post-bot"
+          git config user.email "blog-post-bot@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update latest Syncfusion articles"
+          git push

@@ -50,7 +50,7 @@ I write frequently about modern Angular, frontend architecture, performance, and
 - [Angular Zoneless Change Detection Explained: Angular Without Zone.js](https://www.syncfusion.com/blogs/post/angular-zoneless-change-detection)
 - [Angular Material or PrimeNG? Choosing the Right UI Library in 2026](https://www.syncfusion.com/blogs/post/angular-material-vs-primeng)
 - [Incremental Hydration in Angular: Build SSR Apps That Feel Instantly Interactive](https://www.syncfusion.com/blogs/post/incremental-hydration-in-angular-apps)
-- [How to Build an AI-Powered Writing Assistant in Angular Using Google Gemini API &lpar;Part 2&rpar;](https://www.syncfusion.com/blogs/post/ai-writing-assistant-angular-gemini-2)
+- [How to Build an AI-Powered Writing Assistant in Angular Using Google Gemini API (Part 2)](https://www.syncfusion.com/blogs/post/ai-writing-assistant-angular-gemini-2)
 <!-- BLOG-POST-LIST:END -->
 
 [View all Syncfusion articles](https://www.syncfusion.com/blogs/author/ankit-sharma)
